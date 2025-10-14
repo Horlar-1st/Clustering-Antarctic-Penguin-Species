@@ -1,10 +1,10 @@
-🐧 Clustering Antarctic Penguin Species
+## 🐧 Clustering Antarctic Penguin Species
 
 This repository contains my *DataCamp* project *“Clustering Antarctic Penguin Species”*. The goal is to apply unsupervised clustering techniques on penguin morphological data to uncover groups (species) from patterns in the features.
 
 ---
 
-📄 Project Overview
+## 📄 Project Overview
 
 Researchers collected measurements on penguins in Antarctica, but the species labels were omitted. Using the provided dataset (`penguins.csv`), the task is to:
 
