@@ -21,7 +21,7 @@ The dataset includes the following variables:
 - `flipper_length_mm` — flipper length  
 - `body_mass_g` — body mass  
 - `sex` — the penguin’s sex (used as a categorical variable)
-- 
+
 1. *Load & examine data* — check for missing or strange values  
 2. *Encode categorical variables* (e.g. `sex`) as one‑hot or integer dummies  
 3. *Feature scaling* using `StandardScaler`  
@@ -36,7 +36,7 @@ The dataset includes the following variables:
 
 ---
 
-📈 Sample Visuals & Results
+## 📈 Sample Visuals & Results
 
 *(Embed or link here to a few example plots, for instance: inertia curve, cluster scatter, centroid overlay. You can place images in `outputs/plots/` and link them.)*
 
@@ -47,7 +47,7 @@ The dataset includes the following variables:
 
 ---
 
-🏁 Key Findings & Discussion
+## 🏁 Key Findings & Discussion
 
 - The *elbow plot* suggests that *k = 3* or *k = 4* may be reasonable choices  
 - Clusters group observations that are similar in morphological traits (e.g., body mass, flipper length)
