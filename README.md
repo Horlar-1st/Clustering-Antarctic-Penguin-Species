@@ -21,3 +21,33 @@ The dataset includes the following variables:
 - `flipper_length_mm` — flipper length  
 - `body_mass_g` — body mass  
 - `sex` — the penguin’s sex (used as a categorical variable)
+- 
+1. *Load & examine data* — check for missing or strange values  
+2. *Encode categorical variables* (e.g. `sex`) as one‑hot or integer dummies  
+3. *Feature scaling* using `StandardScaler`  
+4. *Elbow / inertia method* — try different values of *k* (number of clusters), plot inertia to select a plausible *k*  
+5. *Fit K‑Means* with chosen *k*  
+6. *Assign cluster labels* and inspect cluster centroids  
+7. *Visualization*:
+   - Scatter plot in 2D projections colored by cluster label  
+   - Plot of centroids  
+   - Compare cluster means across features  
+8. *Interpretation & insights* — how well do the clusters align with expected species groupings?
+
+---
+
+📈 Sample Visuals & Results
+
+*(Embed or link here to a few example plots, for instance: inertia curve, cluster scatter, centroid overlay. You can place images in `outputs/plots/` and link them.)*
+
+- Inertia vs. *k* plot  
+- Clustered scatter of first two principal components or raw features  
+- Centroid markers superimposed on cluster plot  
+- Table summarizing average feature values per cluster  
+
+---
+
+🏁 Key Findings & Discussion
+
+- The *elbow plot* suggests that *k = 3* or *k = 4* may be reasonable choices  
+- Clusters group observations that are similar in morphological traits (e.g., body mass, flipper length)
