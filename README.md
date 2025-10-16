@@ -51,3 +51,42 @@ The dataset includes the following variables:
 
 - The *elbow plot* suggests that *k = 3* or *k = 4* may be reasonable choices  
 - Clusters group observations that are similar in morphological traits (e.g., body mass, flipper length)
+- Compare cluster feature means to known species traits (if species metadata is later provided)  
+- Discuss where clustering may misclassify, overlap, or show ambiguous assignments  
+
+---
+
+🛠 How to Run / Use This Project
+
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/your-username/clustering-penguins.git
+   cd clustering-penguins
+   ```
+
+2. Install dependencies:  
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Launch the notebook (or run as script):  
+   ```bash
+   jupyter notebook notebooks/clustering_penguins.ipynb
+   ```
+
+4. View or regenerate plots in the `outputs/plots/` folder  
+
+---
+
+📚 References & Acknowledgments
+
+- Original penguin dataset and context via Dr. Kristen Gorman and the Palmer Station Antarctica LTER [1]   
+- DataCamp *Clustering Antarctic Penguin Species* project prompt  
+- Scikit‑learn documentation, community examples, clustering tutorials  
+
+---
+
+🙋 Author & Contact
+
+*[Shoyombo Moshood]*  
+- GitHub: [github.com/horlar-1st](https://github.com/horlar-1st)  
