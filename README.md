@@ -71,7 +71,7 @@ The dataset includes the following variables:
 
 3. Launch the notebook (or run as script):  
    ```bash
-   jupyter notebook notebooks/clustering_penguins.ipynb
+   jupyter notebook notebook.ipynb
    ```
 
 4. View or regenerate plots in the `outputs/plots/` folder  
