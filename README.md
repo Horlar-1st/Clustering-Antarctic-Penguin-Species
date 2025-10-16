@@ -60,7 +60,7 @@ The dataset includes the following variables:
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/clustering-penguins.git
+   git clone https://github.com/Horlar-1st/Clustering-Antarctic-Penguin-Species.git
    cd clustering-penguins
    ```
 
