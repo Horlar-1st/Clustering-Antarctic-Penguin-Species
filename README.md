@@ -69,7 +69,7 @@ The dataset includes the following variables:
    pip install -r requirements.txt
    ```
 
-3. Launch the notebook (or run as script):  
+3. Launch the notebook:
    ```bash
    jupyter notebook notebook.ipynb
    ```
