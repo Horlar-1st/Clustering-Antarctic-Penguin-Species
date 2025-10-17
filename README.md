@@ -56,7 +56,7 @@ The dataset includes the following variables:
 
 ---
 
-🛠 How to Run / Use This Project
+## 🛠 How to Run / Use This Project
 
 1. Clone this repository:  
    ```bash
@@ -78,7 +78,7 @@ The dataset includes the following variables:
 
 ---
 
-📚 References & Acknowledgments
+## 📚 References & Acknowledgments
 
 - Original penguin dataset and context via Dr. Kristen Gorman and the Palmer Station Antarctica LTER [1]   
 - DataCamp *Clustering Antarctic Penguin Species* project prompt  
@@ -86,7 +86,7 @@ The dataset includes the following variables:
 
 ---
 
-🙋 Author & Contact
+## 🙋 Author & Contact
 
 *Shoyombo Moshood*  
 - GitHub: [github.com/horlar-1st](https://github.com/horlar-1st)  
