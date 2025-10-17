@@ -22,6 +22,7 @@ The dataset includes the following variables:
 - `body_mass_g` — body mass  
 - `sex` — the penguin’s sex (used as a categorical variable)
 
+Steps taken:
 1. *Load & examine data* — check for missing or strange values  
 2. *Encode categorical variables* (e.g. `sex`) as one‑hot or integer dummies  
 3. *Feature scaling* using `StandardScaler`  
