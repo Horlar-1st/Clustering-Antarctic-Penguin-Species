@@ -81,7 +81,7 @@ Steps taken:
 
 ## 📚 References & Acknowledgments
 
-- Original penguin dataset and context via Dr. Kristen Gorman and the Palmer Station Antarctica LTER [1]   
+- Original penguin dataset and context via Dr. Kristen Gorman and the Palmer Station Antarctica LTER.
 - DataCamp *Clustering Antarctic Penguin Species* project prompt  
 - Scikit‑learn documentation, community examples, clustering tutorials  
 
