@@ -88,5 +88,5 @@ The dataset includes the following variables:
 
 🙋 Author & Contact
 
-*[Shoyombo Moshood]*  
+*Shoyombo Moshood*  
 - GitHub: [github.com/horlar-1st](https://github.com/horlar-1st)  
