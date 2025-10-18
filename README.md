@@ -62,12 +62,13 @@ Steps taken:
 
 📁 Repository Structure
 
-text
-├── penguins.csv                      # Raw dataset (if licensing allows)
-├──  clustering_penguins.ipynb        # Jupyter notebook with analysis and visualizations
-├── README.md                         # This overview
-└── requirements.txt                  # Python dependencies
-
+```
+Clustering-Antarctic-Penguin-Species/
+   ├── penguins.csv                      # Raw dataset (if licensing allows)
+   ├──  clustering_penguins.ipynb        # Jupyter notebook with analysis and visualizations
+   ├── README.md                         # This overview
+   └── requirements.txt                  # Python dependencies
+```
 
 ---
 
