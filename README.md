@@ -1,6 +1,6 @@
 ## 🐧 Clustering Antarctic Penguin Species
 
-![Penguins](https://github.com/allisonhorst/penguins)
+![Penguins](https://github.com/allisonhorst/palmerpenguins/blob/main/man/figures/lter_penguins.png)
 
 This repository contains my *DataCamp* project *“Clustering Antarctic Penguin Species”*. The goal is to apply unsupervised clustering techniques on penguin morphological data to uncover groups (species) from patterns in the features.
 
