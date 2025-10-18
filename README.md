@@ -4,6 +4,9 @@
 
 This repository contains my *DataCamp* project *“Clustering Antarctic Penguin Species”*. The goal is to apply unsupervised clustering techniques on penguin morphological data to uncover groups (species) from patterns in the features.
 
+There are known to be at least three penguin species native to the region: Adélie, Chinstrap, and Gentoo. The clustering approach aims to recover these groupings from the data.  
+(Source of the data: Dr. Kristen Gorman and Palmer Station, Antarctica LTER)  [1]
+
 ---
 
 ## 📄 Project Overview
@@ -81,7 +84,7 @@ Steps taken:
 
 ## 📚 References & Acknowledgments
 
-- Original penguin dataset and context via Dr. Kristen Gorman and the Palmer Station Antarctica LTER.
+- Original penguin dataset and context via Dr. Kristen Gorman and the Palmer Station Antarctica LTER. [1]
 - DataCamp *Clustering Antarctic Penguin Species* project prompt  
 - Scikit‑learn documentation, community examples, clustering tutorials  
 
