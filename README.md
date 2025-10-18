@@ -60,6 +60,17 @@ Steps taken:
 
 ---
 
+📁 Repository Structure
+
+text
+├── penguins.csv                      # Raw dataset (if licensing allows)
+├──  clustering_penguins.ipynb        # Jupyter notebook with analysis and visualizations
+├── README.md                         # This overview
+└── requirements.txt                  # Python dependencies
+
+
+---
+
 ## 🛠 How to Run / Use This Project
 
 1. Clone this repository:  
