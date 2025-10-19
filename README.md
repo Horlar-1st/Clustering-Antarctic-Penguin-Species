@@ -65,7 +65,8 @@ Steps taken:
 ```
 Clustering-Antarctic-Penguin-Species/
    ├── penguins.csv                      # Raw dataset (if licensing allows)
-   ├── notebook.ipynb        # Jupyter notebook with analysis and visualizations
+   ├── plots                             # Visualizations (inertia plot, cluster scatter plots, etc.)
+   ├── notebook.ipynb                    # Jupyter notebook with analysis and visualizations
    ├── README.md                         # This overview
    └── requirements.txt                  # Python dependencies
 ```
