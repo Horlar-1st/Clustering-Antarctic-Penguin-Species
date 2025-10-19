@@ -60,6 +60,13 @@ Steps taken:
 
 ---
 
+## 📈 Plots
+
+| *Elbow analysis*                                                                        | *Clusters*                                                                                 | 
+| ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | 
+| ![Elbow](https://github.com/Horlar-1st/Clustering-Antarctic-Penguin-Species/blob/main/elbow_analysis_on_number_of_clusters.png) | ![Cluster](https://github.com/Horlar-1st/Clustering-Antarctic-Penguin-Species/blob/main/plot_of_clustering.png) |
+---
+
 📁 Repository Structure
 
 ```
