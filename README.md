@@ -42,8 +42,6 @@ Steps taken:
 
 ## 📈 Sample Visuals & Results
 
-*(Embed or link here to a few example plots, for instance: inertia curve, cluster scatter, centroid overlay. You can place images in `outputs/plots/` and link them.)*
-
 - Inertia vs. *k* plot  
 - Clustered scatter of first two principal components or raw features  
 - Centroid markers superimposed on cluster plot  
@@ -100,7 +98,7 @@ Clustering-Antarctic-Penguin-Species/
    jupyter notebook notebook.ipynb
    ```
 
-4. View or regenerate plots in the `outputs/plots/` folder  
+4. View or regenerate plots in the `plots/` folder  
 
 ---
 
