@@ -73,7 +73,6 @@ Steps taken:
 Clustering-Antarctic-Penguin-Species/
    ├── penguins.csv                      # Raw dataset (if licensing allows)
    ├── plots/                            # Visualizations (inertia plot, cluster scatter plots, etc.)
-   ├── plots/                            # Visualizations (inertia plot, cluster scatter plots, etc.)
    |     ├── elbow_analysis_on_number_of_clusters.png
    |     └── plot_of_clustering.png
    ├── notebook.ipynb                    # Jupyter notebook with analysis and visualizations
