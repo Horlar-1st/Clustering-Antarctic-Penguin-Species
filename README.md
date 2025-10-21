@@ -85,7 +85,7 @@ Clustering-Antarctic-Penguin-Species/
 1. Clone this repository:  
    ```bash
    git clone https://github.com/Horlar-1st/Clustering-Antarctic-Penguin-Species.git
-   cd clustering-penguins
+   cd notebook
    ```
 
 2. Install dependencies:  
