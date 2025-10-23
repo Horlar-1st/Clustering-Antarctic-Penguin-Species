@@ -60,9 +60,9 @@ Steps taken:
 
 ## 📈 Plots
 
-| *Elbow analysis*                                                                        | *Clusters*                                                                                 | 
+| *Elbow analysis to know the reasonable choice for k*                                                                        | *Visual plot of Clusters group*                                                                                 | 
 | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | 
-| ![Elbow](https://github.com/Horlar-1st/Clustering-Antarctic-Penguin-Species/blob/main/plots/plot_of_clustering.png) | ![Cluster](https://github.com/Horlar-1st/Clustering-Antarctic-Penguin-Species/blob/main/plots/elbow_analysis_on_number_of_clusters.png) |
+| ![elbow_analysis](https://github.com/Horlar-1st/Clustering-Antarctic-Penguin-Species/blob/main/plots/elbow_analysis_on_number_of_clusters.png) | ![clusters](https://github.com/Horlar-1st/Clustering-Antarctic-Penguin-Species/blob/main/plots/plot_of_clustering.png) |
 ---
 
 📁 Repository Structure
