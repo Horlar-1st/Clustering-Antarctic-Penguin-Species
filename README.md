@@ -112,5 +112,6 @@ Clustering-Antarctic-Penguin-Species/
 
 ## 🙋 Author & Contact
 
-*Shoyombo Moshood*  
-- GitHub: [github.com/horlar-1st](https://github.com/horlar-1st)  
+ [Shoyombo Moshood O.](https://linkedin.com/in/shoyombo-moshood-582003126/)
+
+ Developed as project in Data Assosiate Scientist Career track 
