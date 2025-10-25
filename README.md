@@ -114,4 +114,4 @@ Clustering-Antarctic-Penguin-Species/
 
  [Shoyombo Moshood O.](https://linkedin.com/in/shoyombo-moshood-582003126/)
 
- Developed as project in [Data Assosiate Scientist](https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python) Career track on DataCamp(https://app.datacamp.com/)
+ Developed as project in [Data Assosiate Scientist](https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python) Career track on [DataCamp](https://app.datacamp.com/)
