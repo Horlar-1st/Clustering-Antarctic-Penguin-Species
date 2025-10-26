@@ -65,7 +65,7 @@ Steps taken:
 | ![elbow_analysis](https://github.com/Horlar-1st/Clustering-Antarctic-Penguin-Species/blob/main/plots/elbow_analysis_on_number_of_clusters.png) | ![clusters](https://github.com/Horlar-1st/Clustering-Antarctic-Penguin-Species/blob/main/plots/plot_of_clustering.png) |
 ---
 
-📁 Repository Structure
+## 📁 Repository Structure
 
 ```
 Clustering-Antarctic-Penguin-Species/
